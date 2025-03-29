@@ -96,34 +96,49 @@ body{
     background: hsl(0, 46%, 90%);
     color: hsl(0, 100%, 67%);
     padding: 12px;
+    opacity: 0.7;
+}
+.content-span{
+    color:#000000;
+    opacity: 0.7;
 }
 .content-span-1{
     margin-left: 35px;
+    color: #000000;
+    font-weight: bold;
 }
 .grid-2-content li:nth-of-type(2){
     background: hsl(36, 63%, 88%);
     color: hsl(39, 100%, 56%);
     padding: 12px;
+    opacity: 0.7;
 }
 .content-span-2{
     margin-left: 39px;
+    color: #000000;
+    font-weight: bold;
 }
 .grid-2-content li:nth-of-type(3){
     background: hsl(165, 46%, 90%);
     color: hsl(166, 100%, 37%);
     padding: 12px;
+    opacity: 0.7;
 }
 .content-span-3{
     margin-left: 52px;
+    color: #000000;
+    font-weight: bold;
 }
 .grid-2-content li:nth-of-type(4){
     background: hsl(231, 24%, 89%);
     color: hsl(234, 85%, 45%);
     padding: 12px;
+    opacity: 0.7;
 }
 .content-span-4{
     margin-left: 92px;
     color: #000000;
+    font-weight: bold;
 }
 .fa-solid{
     margin-right: 10px;
